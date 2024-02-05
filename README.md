@@ -22,4 +22,4 @@ I'm a process automation and innovation specialist with a natural flair for crea
 🗨️ He/Him.
 
 ## Fun Fact
-⚡ A fun fact about me: Thinking outside the box, I invented, built, and implemented a fully automated tool for spell checking, music and media entity verification, and guideline searching—revolutionizing the annotation analysts' workflow.
+⚡ A fact about me: Thinking outside the box, I invented, built, and implemented a fully automated tool for spell checking, music and media entity verification, and guideline searching—revolutionizing the annotation analysts' workflow.
