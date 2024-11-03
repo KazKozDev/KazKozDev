@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @KazKozDev
+- 👋 Hi, I'm Artem @KazKozDev 
 - 👀 I'm interested in Ollama, LLM, automation
 - 🌱 I'm currently learning Python, machine learning
 - 💞️ I'm looking to collaborate on AI and automation projects using Python
