@@ -1,26 +1,36 @@
-# Hi, I'm Artem @KazKozDev
+# Hi, I'm Artem! 👋  
+**`AI Developer & Automation Enthusiast`**
 
-👀  **I'm interested in** Ollama, LLM, automation, and building efficient AI solutions  
-🌱 **I'm currently learning** Python, machine learning, and advanced prompt engineering techniques
+I'm passionate about **large language models (LLMs)**, **automation**, and crafting **highly efficient AI solutions** that drive impact.
 
-## 💡 Expertise in:
-- Prompt engineering optimization for various LLM models
-- Chain-of-thought and few-shot prompting strategies
-- Building RAG (Retrieval-Augmented Generation) systems
-- Fine-tuning and optimizing LLM performance
-- Automating workflows with AI integration
+---
 
-## 🛠️ Working with:
-- Local LLMs deployment using Ollama
-- Python frameworks for AI/ML (TensorFlow, PyTorch)
-- LangChain and similar frameworks for LLM applications
+### 🌱 Currently Exploring
+- **Python** for machine learning and AI applications
+- Advanced **prompt engineering** techniques
+- Creating and optimizing **RAG** (Retrieval-Augmented Generation) systems
 
-💞️ **I'm looking to collaborate on** AI and automation projects using Python  
-📫 **How to reach me:** KazKozDev@gmail.com  
-😄 **Pronouns:** he/him  
-⚡ **Fun fact:** I enjoy coding with LLMs and exploring new ways to optimize AI-human interaction
+### 💼 Expertise
+- **Prompt Engineering Optimization**: Enhancing prompts for various LLM models
+- **Strategic Prompting**: Applying chain-of-thought and few-shot techniques
+- **LLM Fine-tuning**: Boosting model performance through careful optimization
+- **Workflow Automation**: Integrating AI to streamline and automate tasks
 
+### 🛠️ Tech Stack
+- **Local LLM Deployment**: Utilizing **Ollama** for powerful on-device AI
+- AI/ML frameworks: **TensorFlow** and **PyTorch**
+- **LangChain** and similar frameworks for robust LLM applications
 
+---
+
+### 🤝 Let’s Collaborate!
+I'm eager to team up on **AI and automation projects** using Python!  
+
+📫 **Contact**: KazKozDev@gmail.com  
+😄 **Pronouns**: he/him  
+⚡ **Fun Fact**: I love exploring new ways to optimize **AI-human interaction** with LLMs.
+
+---
 
 <!---
 KazKozDev/KazKozDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
