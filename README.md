@@ -1,6 +1,6 @@
 # Hi, I'm Artem @KazKozDev
 
-👀 **I'm interested in** Ollama, LLM, automation, and building efficient AI solutions  
+👀  **I'm interested in** Ollama, LLM, automation, and building efficient AI solutions  
 🌱 **I'm currently learning** Python, machine learning, and advanced prompt engineering techniques
 
 ## 💡 Expertise in:
