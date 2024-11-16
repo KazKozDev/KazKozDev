@@ -28,7 +28,7 @@ I architect and develop **AI solutions** with focus on **Large Language Models**
 - **Autonomous Systems**: Self-improving AI architectures and adaptive learning
 
 ### 🛠️ Tech Stack & Development
-- **LLM Development**: LangChain | LlamaIndex | Ollama | OpenAI
+- **LLM Development**: LangChain | LlamaIndex | Ollama | OpenAI | Anthropic Claude
 - **AI/ML**: PyTorch | TensorFlow | Hugging Face
 - **Agent Frameworks**: AutoGen | CrewAI | BabyAGI
 - **Tools**: Vector DBs | Semantic Kernels | RAG Systems
