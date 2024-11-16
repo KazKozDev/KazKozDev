@@ -42,8 +42,6 @@ I architect and develop **AI solutions** with focus on **Large Language Models**
 ### 🌟 Featured Projects
 - 🤖 Custom multi-agent architectures for autonomous task solving
 - 🧠 Advanced prompting systems with cognitive architecture integration
-- 📚 RAG-enhanced knowledge systems with adaptive learning
-- 🔄 Self-improving AI workflows for automation
 - 🎯 Domain-specific AI applications and integrations
 
 ### 🤝 Let's Connect!
