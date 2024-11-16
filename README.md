@@ -34,18 +34,10 @@ I architect and develop **AI solutions** with focus on **Large Language Models**
 - **Tools**: Vector DBs | Semantic Kernels | RAG Systems
 
 ### 🚀 AI Applications & Solutions
-- **Intelligent Assistants**:
-  - Custom GPT Development
-  - Domain-Specific AI Agents
-  - Context-Aware Systems
 - **Business Solutions**:
   - Workflow Automation
   - Document Processing
   - Knowledge Management
-- **AI Integration**:
-  - API Development
-  - Custom UI/UX
-  - System Architecture
 
 ### 🌟 Featured Projects
 - 🤖 Custom multi-agent architectures for autonomous task solving
