@@ -5,10 +5,12 @@ I'm passionate about **large language models (LLMs)**, **automation**, and craft
 
 ---
 
-### 🌱 Currently Exploring
-- **Python** for machine learning and AI applications
-- Advanced **prompt engineering** techniques
-- Creating and optimizing **RAG** (Retrieval-Augmented Generation) systems
+🌱 Currently Exploring
+- **Python for machine learning and AI applications
+- **Advanced prompt engineering techniques
+- **LLM Techniques: Tree of Thoughts → Chain of Thoughts → Reframing → Reflection → CoT Prompting → Zero/Few-Shot Learning → RAG → RLHF
+- **Multi-Agent Architectures: Swarms → AutoGen → LangChain → CrewAI → Task Decomposition → Role Specialization → Collaborative Planning
+- **Developing custom architectures and designing novel AI systems
 
 ### 💼 Expertise
 - **Prompt Engineering Optimization**: Enhancing prompts for various LLM models
