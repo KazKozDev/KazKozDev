@@ -55,7 +55,6 @@ I architect and develop **AI solutions** with focus on **Large Language Models**
 ## 🤝 Let's Connect!
 
 I'm always open to collaborating on innovative **AI projects** and exploring new frontiers in artificial intelligence.
-
-📫 **Contact**: KazKozDev@gmail.com 
-🌐 **Pronouns**: he/him 
-⚡ **Fun fact**: Passionate about exploring the intersection of human cognition and artificial intelligence.
+* 📫 **Contact**: KazKozDev@gmail.com 
+* 🌐 **Pronouns**: he/him 
+* ⚡ **Fun fact**: Passionate about exploring the intersection of human cognition and artificial intelligence.
