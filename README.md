@@ -1,4 +1,4 @@
-# AI Engineer | LLM Architect | Automation Expert
+![Professional Title](profile-badge)
 
 I architect and develop **AI solutions** with focus on **Large Language Models**, **multi-agent systems**, and **intelligent automation**. My passion lies in creating efficient, scalable AI architectures that bridge human and artificial intelligence.
 
@@ -50,12 +50,4 @@ I architect and develop **AI solutions** with focus on **Large Language Models**
 
 * 🤖 Custom multi-agent architectures for autonomous task solving
 * 🧠 Advanced prompting systems with cognitive architecture integration
-* 🎯 Domain-specific AI applications and integrations
-
-## 🤝 Let's Connect!
-
-I'm always open to collaborating on innovative **AI projects** and exploring new frontiers in artificial intelligence.
-
-📫 **Contact**: KazKozDev@gmail.com  
-🌐 **Pronouns**: he/him  
-⚡ **Fun fact**: Passionate about exploring the intersection of human cognition and artificial intelligence
+* 🎯 Domain-specific AI applicati
