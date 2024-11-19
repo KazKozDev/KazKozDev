@@ -1,4 +1,4 @@
-# `AI Engineer | LLM Architect | Automation Expert`
+`AI Engineer | LLM Architect | Automation Expert`
 
 I architect and develop **AI solutions** with focus on **Large Language Models**, **multi-agent systems**, and **intelligent automation**. My passion lies in creating efficient, scalable AI architectures that bridge human and artificial intelligence.
 
