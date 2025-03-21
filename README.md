@@ -18,14 +18,6 @@
 
 ---
 
-## 🚀 Projects
-
-- 🔐 **LLM-Firewall** – AI safety framework with jailbreak filtering and intent analysis  
-- 📖 **BookGenerator** – Fiction generator with smooth transitions using Llama 3  
-- 🤖 **KazKoz Agents** – Modular LLM agent templates (LangChain-based)
-
----
-
 ## 📫 Contact
 
 - Email: [KazKozDev@gmail.com](mailto:KazKozDev@gmail.com)  
