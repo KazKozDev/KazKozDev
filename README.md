@@ -4,7 +4,7 @@
 - Multi-agent systems for automating complex workflows  
 - Fine-tuning LLMs for domain-specific tasks  
 - Prompt engineering with evaluation & safety guardrails  
-- Model experience: Claude, GPT, Gemma 3
+- Model experience: Claude, GPT, Gemma
 
 ## Tech Stack
 - Languages: Python, JavaScript
