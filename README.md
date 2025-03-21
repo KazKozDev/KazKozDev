@@ -16,5 +16,4 @@
 - Email: KazKozDev@gmail.com
 - LinkedIn: linkedin.com/in/kazkozdev
 
-## Tags
 `llm-engineering` `prompt-engineering` `fine-tuning` `multi-agent` `huggingface` `vector-db` `llama3` `evaluation` `guardrails` `ai-automation` `ethical-ai`
