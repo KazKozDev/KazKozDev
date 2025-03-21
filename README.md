@@ -1,17 +1,45 @@
-# AI Solutions Engineer
+# 👋 Hi, I'm Artem (he/him)
 
-AI specialist building practical business solutions with LLMs.
+⚡ AI Developer crafting intelligent solutions with LLMs  
+📍 Based in Barcelona | 5+ years in AI & automation
 
-* **Multi-agent systems** for automating complex workflows
-* **Fine-tuning** LLMs for specific domains and improved performance
-* **Prompt engineering** with guardrails and evaluation systems
+---
 
-**Experience:** 5+ years specializing in AI solutions
+## 🧠 Specialization
 
-**Models:** Claude, GPT, Gemma 3
+- 🔁 Multi-agent systems for automating complex workflows  
+- 🎯 Fine-tuning LLMs for domain-specific tasks  
+- 🧩 Prompt engineering with evaluation & safety guardrails  
+- 🔍 Model experience: Claude, GPT, Gemma 3
 
-**Industry:** Customer Support automation
+---
 
-Python | LangChain | Vector DBs
+## 🛠 Tech Stack
 
-KazKozDev@gmail.com | he/him
+**Languages**: Python, JavaScript  
+**Frameworks**: LangChain, FastAPI, Gradio  
+**NLP Tools**: Hugging Face, spaCy, Vector DBs  
+**Infra**: Docker, API design, LLM Ops
+
+---
+
+## 🚀 Projects
+
+- 🔐 **LLM-Firewall** – AI safety framework with jailbreak filtering and intent analysis  
+- 📖 **BookGenerator** – Fiction generator with smooth transitions using Llama 3  
+- 🤖 **KazKoz Agents** – Modular LLM agent templates (LangChain-based)
+
+---
+
+## 📫 Contact
+
+- Email: [KazKozDev@gmail.com](mailto:KazKozDev@gmail.com)  
+- LinkedIn: [linkedin.com/in/kazkozdev](https://linkedin.com/in/kazkozdev)  
+- Blog: [medium.com/local-llm-lab](https://medium.com/local-llm-lab)
+
+---
+
+## 🔍 Tags & Keywords
+
+`llm-engineering` `prompt-engineering` `fine-tuning` `multi-agent` `huggingface`  
+`vector-db` `llama3` `evaluation` `guardrails` `ai-automation` `ethical-ai`
