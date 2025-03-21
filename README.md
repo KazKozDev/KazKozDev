@@ -7,7 +7,9 @@ AI specialist building practical business solutions with LLMs.
 * **Prompt engineering** with guardrails and evaluation systems
 
 **Experience:** 5+ years specializing in AI solutions
+
 **Models:** Claude, GPT, Gemma 3
+
 **Industry:** Customer Support automation
 
 Python | LangChain | Vector DBs
