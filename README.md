@@ -10,6 +10,7 @@
 **Languages**: Python, JavaScript  
 **Frameworks**: LangChain, FastAPI, Gradio  
 **NLP Tools**: Hugging Face, spaCy, Vector DBs  
+**Infra**: Docker, API design, LLM Ops
 
 ## Contact
 - Email: KazKozDev@gmail.com
