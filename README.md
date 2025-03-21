@@ -1,9 +1,4 @@
-# 👋 Hi, I'm Artem (he/him)
-
-⚡ AI Developer crafting intelligent solutions with LLMs  
-📍 Based in Barcelona | 5+ years in AI & automation
-
----
+# 👋 Hi, I'm Artem
 
 ## 🧠 Specialization
 
