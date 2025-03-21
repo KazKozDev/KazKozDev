@@ -7,10 +7,10 @@
 - Model experience: Claude, GPT, Gemma 3
 
 ## Tech Stack
-**Languages**: Python, JavaScript  
-**Frameworks**: LangChain, FastAPI, Gradio  
-**NLP Tools**: Hugging Face, spaCy, Vector DBs  
-**Infra**: Docker, API design, LLM Ops
+- Languages**: Python, JavaScript
+- Frameworks**: LangChain, FastAPI, Gradio
+- NLP Tools**: Hugging Face, spaCy, Vector DBs
+- Infra**: Docker, API design, LLM Ops
 
 ## Contact
 - Email: KazKozDev@gmail.com
