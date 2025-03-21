@@ -3,7 +3,8 @@
 ## Specialization
 - Multi-agent systems for automating complex workflows  
 - Fine-tuning LLMs for domain-specific tasks  
-- Prompt engineering with evaluation & safety guardrails  
+- Prompt engineering with evaluation & safety guardrails
+- Building intelligent AI applications
 - Model experience: Claude, GPT, Gemma
 
 ## Tech Stack
