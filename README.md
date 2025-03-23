@@ -5,7 +5,7 @@
 - Fine-tuning LLMs for domain-specific tasks  
 - Prompt engineering with evaluation & safety guardrails
 - Building intelligent AI applications
-- Model experience: Claude, GPT, Gemma, etc.
+- Model: Claude, GPT, Gemma, etc.
 
 ## Tech Stack
 - Languages: Python
