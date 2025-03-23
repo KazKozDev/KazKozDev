@@ -8,7 +8,7 @@
 - Model experience: Claude, GPT, Gemma, etc.
 
 ## Tech Stack
-- Languages: Python, JavaScript
+- Languages: Python
 - Frameworks: LangChain, FastAPI, Gradio
 - NLP Tools: Hugging Face, spaCy, Vector DBs
 - Infra: Docker, API design, LLM Ops
