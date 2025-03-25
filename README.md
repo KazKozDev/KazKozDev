@@ -1,19 +1,19 @@
 # Hi, I'm Artem
 
-## Specialization
+### Specialization
 - Multi-agent systems for automating complex workflows  
 - Fine-tuning LLMs for domain-specific tasks  
 - Prompt engineering with evaluation & safety guardrails
 - Building intelligent AI applications
 - Models: Claude, GPT, Gemma, etc.
 
-## Tech Stack
+### Tech Stack
 - Languages: Python
 - Frameworks: LangChain, FastAPI, Gradio
 - NLP Tools: Hugging Face, spaCy, Vector DBs
 - Infra: Docker, API design, LLM Ops
 
-## Contact
+### Contact
 - Email: KazKozDev@gmail.com
 - LinkedIn: linkedin.com/in/kazkozdev
 
