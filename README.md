@@ -18,6 +18,7 @@
 - LinkedIn: linkedin.com/in/kazkozdev
 
 `llm-engineering` `prompt-engineering` `fine-tuning` `multi-agent` `huggingface` `ai-automation`
+
 <h2>Chatbots</h2>
 
 <table>
@@ -31,36 +32,45 @@
     <tr>
       <td><strong>VerbaBot Public</strong></td>
       <td>
-        A private, local AI assistant with a RAG pipeline, personal memory system, calendar integration, image analysis, and model switching.
+        Private, local AI assistant integrating a RAG pipeline, memory, and real-time web search.
         <ul>
-          <li>Local-only processing for full privacy</li>
-          <li>Advanced RAG pipeline for document understanding</li>
-          <li>Calendar integration & personal memory system</li>
-          <li>Real-time web access via DuckDuckGo</li>
-          <li>Dynamic model selection (Ollama)</li>
+          <li>Local LLM deployment with complete data privacy</li>
+          <li>Advanced RAG pipeline (multi-format document retrieval)</li>
+          <li>Personal memory system across sessions</li>
+          <li>Calendar integration via natural language</li>
+          <li>Dynamic model switching (Ollama interface)</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td><strong>QuéAI</strong></td>
       <td>
-        A privacy-focused product recommendation chatbot running fully locally with Gemma 3:12B, hybrid search, and adaptive personalization.
+        On-premise product recommendation chatbot for e-commerce using hybrid retrieval techniques.
         <ul>
           <li>Hybrid search: vector similarity + BM25</li>
-          <li>Image and text query analysis</li>
-          <li>Personalized recommendations via SQLite</li>
-          <li>Intelligent caching for fast response</li>
-          <li>Zero cloud dependency</li>
+          <li>Image and text-based product search</li>
+          <li>Adaptive user profiles via SQLite storage</li>
+          <li>Local inference using Gemma 3:12B</li>
+          <li>Intelligent caching for performance optimization</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td><strong>Researchify</strong></td>
       <td>
-        A scientific research assistant helping academics find, summarize, and analyze scientific papers, citation trends, and more.
+        AI-powered research assistant for literature review, citation analysis, and trend exploration.
         <ul>
-          <li>Plain-language literature search</li>
-          <li>Paper summarization and key findings extraction</li>
+          <li>Natural language search over academic databases</li>
+          <li>Scientific paper summarization and key insights extraction</li>
+          <li>Citation network and impact analysis</li>
+          <li>Document parsing (PDF, DOCX, TXT, CSV)</li>
+          <li>Trend identification in research domains</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
           <li>Citation impact and trend analysis</li>
           <li>Cross-format document processing</li>
           <li>Natural conversation about research topics</li>
