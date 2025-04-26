@@ -29,7 +29,6 @@ llm-engineering prompt-engineering fine-tuning multi-agent huggingface ai-automa
 | **QuéAI** | On-premise product recommendation chatbot for e-commerce using hybrid retrieval techniques. | <details><summary>View Features</summary><ul><li>Hybrid search: vector similarity + BM25</li><li>Image and text-based product search</li><li>Adaptive user profiles via SQLite storage</li><li>Local inference using Gemma 3:12B</li><li>Intelligent caching for performance optimization</li></ul></details> |
 | **Researchify** | AI-powered research assistant for literature review, citation analysis, and trend exploration. | <details><summary>View Features</summary><ul><li>Natural language search over academic databases</li><li>Scientific paper summarization and key insights extraction</li><li>Citation network and impact analysis</li><li>Document parsing (PDF, DOCX, TXT, CSV)</li><li>Trend identification in research domains</li></ul></details> |
 
----
 
 ### 🧠 Agents
 
@@ -38,7 +37,7 @@ llm-engineering prompt-engineering fine-tuning multi-agent huggingface ai-automa
 | **LLMFlow** | Production-ready Agentic AI system integrating LLMs with real-time data tools and multi-step reasoning chains. | <details><summary>View Features</summary><ul><li>Chain orchestration for multi-tool task execution</li><li>Modular tool system (weather, news, web search, finance, astronomy, etc.)</li><li>Local deployment with Ollama and Gemma 3:12B model</li><li>Real-time data access via Open APIs</li><li>Extensible CLI interface</li></ul></details> |
 | **Multi-Expert LLM Consensus (MELC)** | Distributed multi-agent LLM system using critical analysis and confidence-weighted consensus for reliable decision-making. | <details><summary>View Features</summary><ul><li>Asynchronous expert processing (asyncio-based)</li><li>Critical cross-validation with critique agents</li><li>Consensus synthesis and iterative refinement</li><li>Scalable and fault-tolerant architecture</li></ul></details> |
 
----
+
 
 ### 🛠️ Tools & Platforms
 
