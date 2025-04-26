@@ -18,10 +18,10 @@
 - Email: KazKozDev@gmail.com
 - LinkedIn: linkedin.com/in/kazkozdev
 
-
+---
 ### 🚀 Projects
 
-| Section | Project | Description | Features |
+|         | Name | Description | Features |
 |:--------|:--------|:------------|:---------|
 | Chatbots | **VerbaBot** | Private, local AI assistant integrating a RAG pipeline, memory, and real-time web search. | <details><summary>View</summary><ul><li>Local LLM deployment with complete data privacy</li><li>Advanced RAG pipeline (multi-format document retrieval)</li><li>Personal memory system across sessions</li><li>Calendar integration via natural language</li><li>Dynamic model switching (Ollama interface)</li></ul></details> |
 |  | **QuéAI** | On-premise product recommendation chatbot for e-commerce using hybrid retrieval techniques. | <details><summary>View</summary><ul><li>Hybrid search: vector similarity + BM25</li><li>Image and text-based product search</li><li>Adaptive user profiles via SQLite storage</li><li>Local inference using Gemma 3:12B</li><li>Intelligent caching for performance optimization</li></ul></details> |
