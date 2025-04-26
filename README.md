@@ -1,4 +1,5 @@
 # Hi, I'm Artem KK
+`llm-engineering` `prompt-engineering` `fine-tuning` `multi-agent` `huggingface` `ai-automation` 
 
 ✉️ KazKozDev@gmail.com  
 🌐 [linkedin.com/in/kazkozdev](https://linkedin.com/in/kazkozdev)
@@ -86,4 +87,3 @@
   </tbody>
 </table>
 
-`llm-engineering` `prompt-engineering` `fine-tuning` `multi-agent` `huggingface` `ai-automation` 
