@@ -7,12 +7,12 @@
 ### Specialization
 - Multi-agent systems for automating complex workflows  
 - Fine-tuning LLMs for domain-specific tasks  
-- Prompt engineering with evaluation & safety guardrails  
+- Prompt engineering 
 - Building intelligent AI applications  
-- Models: Claude, GPT, Gemma, etc.
 
 ### Tech Stack
 - Languages: Python
 - Frameworks: LangChain, FastAPI, Gradio
 - NLP Tools: Hugging Face, spaCy, Vector DBs
+- Models: Claude, GPT, Gemma, etc.
 
