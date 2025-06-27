@@ -26,3 +26,5 @@ AI Text Processing Portfolio
 | **ConText** | Desktop app for secure, local text translation using Ollama LLMs | Python, Ollama, Desktop GUI | [View Repo](https://github.com/KazKozDev/ConText) |
 | **BookTranslator** | Specialized book translation tool for large documents. Two-stage approach: Google Translate for initial conversion, then Ollama LLM refinement for literary quality and natural flow | Python, Google Translate API, Ollama, Flask | [View Repo](https://github.com/KazKozDev/book-translator) |
 
+
+LLM Agent Solutions
