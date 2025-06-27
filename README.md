@@ -29,4 +29,4 @@ AI Text Processing Portfolio
 
 | Project | Description | Technologies | Repository |
 |---------|-------------|--------------|------------|
-| **LLMFlow Search** | Intelligent research agent with multi-stage architecture: analyzes complex queries, performs deep web searches across multiple sources, and synthesizes comprehensive reports with automatic query refinement and contradiction detection | Python, LLM APIs, Web Scraping, DuckDuckGo API, Wikipedia API, Multi-Agent Framework | [View Repo](https://github.com/KazKozDev/llmflow-search) |
+| **LLMFlow Search** | Intelligent research agent with multi-stage architecture: analyzes complex queries, performs deep web searches across multiple sources, and synthesizes comprehensive reports | Python, LLM APIs, Web Scraping, DuckDuckGo API, Wikipedia API, Multi-Agent Framework | [View Repo](https://github.com/KazKozDev/llmflow-search) |
