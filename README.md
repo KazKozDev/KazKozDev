@@ -18,7 +18,9 @@ KazKozDev@gmail.com
 
 Featured Projects
 
+
 | Project | Description | Technologies | Repository |
 |---------|-------------|--------------|------------|
-| **NovelGenerator** | Fiction generator using LLM to create complete novels with coherent plots, developed characters, and diverse writing styles[3] | Python, LLM APIs, Creative AI | [View Repo](https://github.com/KazKozDev/NovelGenerator) |
+| **NovelGenerator** | Fiction generator using LLM to create complete novels with coherent plots, developed characters, and diverse writing styles | Python, LLM APIs, Creative AI | [View Repo](https://github.com/KazKozDev/NovelGenerator) |
 | **ConText** | Desktop app for secure, local text translation using Ollama LLMs | Python, Ollama, Desktop GUI | [View Repo](https://github.com/KazKozDev/ConText) |
+| **BookTranslator** | A blazing tool for book and documents translations using a unique two-stage approach for better quality | Python, Google Translate API, Ollama, Flask | [View Repo](https://github.com/KazKozDev/book-translator) |
