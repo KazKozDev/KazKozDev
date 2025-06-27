@@ -22,7 +22,7 @@ AI Text Processing Portfolio
 
 | Project | Description | Technologies | Repository |
 |---------|-------------|--------------|------------|
-| **NovelGenerator** | Fiction generator using LLM to create complete novels with coherent plots, developed characters | Python, LLM APIs, Creative AI | [View Repo](https://github.com/KazKozDev/NovelGenerator) |
+| **NovelGenerator** | Fiction generator using LLM to create complete novels with coherent plots, developed characters, and diverse writing styles | Python, LLM APIs, Creative AI | [View Repo](https://github.com/KazKozDev/NovelGenerator) |
 | **ConText** | Desktop app for secure, local text translation using Ollama LLMs | Python, Ollama, Desktop GUI | [View Repo](https://github.com/KazKozDev/ConText) |
-| **BookTranslator** | A blazing tool for book and big documents translations using a unique two-stage approach for better quality with local LLM| Python, Google Translate API, Ollama, Flask | [View Repo](https://github.com/KazKozDev/book-translator) |
+| **BookTranslator** | Specialized book translation tool for large documents. Two-stage approach: Google Translate for initial conversion, then Ollama LLM refinement for literary quality and natural flow | Python, Google Translate API, Ollama, Flask | [View Repo](https://github.com/KazKozDev/book-translator) |
 
