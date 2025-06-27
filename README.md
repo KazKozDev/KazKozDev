@@ -16,7 +16,7 @@ KazKozDev@gmail.com
 - NLP Tools: Hugging Face, spaCy, Vector DBs
 - Models: Claude, GPT, Gemma, etc.
 
-### Featured Projects
+Featured Projects
 
 | Project | Description | Technologies | Repository |
 |---------|-------------|--------------|------------|
