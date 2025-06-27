@@ -28,3 +28,4 @@ AI Text Processing Portfolio
 
 
 LLM Agent Solutions
+| **LLMFlow Search** | Advanced search agent that processes complex queries, performs deep web searches, and synthesizes information from multiple sources with smart query refinement[1] | Python, LLM APIs, Selenium, DuckDuckGo API, Wikipedia API | [View Repo](https://github.com/KazKozDev/llmflow-search) |
