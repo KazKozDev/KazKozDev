@@ -1,8 +1,8 @@
 # Hi, I'm Artem KK
 `generative-ai` `prompt-engineering` `fine-tuning` `agents` `chat-bots` 
 
-✉️ KazKozDev@gmail.com  
-🌐 [linkedin.com/in/kazkozdev](https://linkedin.com/in/kazkozdev)
+KazKozDev@gmail.com  
+[linkedin.com/in/kazkozdev](https://linkedin.com/in/kazkozdev)
 
 ### Specialization
 - Multi-agent systems for automating complex workflows  
