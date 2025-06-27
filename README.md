@@ -27,5 +27,6 @@ AI Text Processing Portfolio
 | **BookTranslator** | Specialized book translation tool for large documents. Two-stage approach: Google Translate for initial conversion, then Ollama LLM refinement for literary quality and natural flow | Python, Google Translate API, Ollama, Flask | [View Repo](https://github.com/KazKozDev/book-translator) |
 
 
-LLM Agent Solutions
-| **LLMFlow Search** | Advanced search agent that processes complex queries, performs deep web searches, and synthesizes information from multiple sources with smart query refinement[1] | Python, LLM APIs, Selenium, DuckDuckGo API, Wikipedia API | [View Repo](https://github.com/KazKozDev/llmflow-search) |
+| Project | Description | Technologies | Repository |
+|---------|-------------|--------------|------------|
+| **LLMFlow Search** | Intelligent research agent with multi-stage architecture: analyzes complex queries, performs deep web searches across multiple sources, and synthesizes comprehensive reports with automatic query refinement and contradiction detection | Python, LLM APIs, Web Scraping, DuckDuckGo API, Wikipedia API, Multi-Agent Framework | [View Repo](https://github.com/KazKozDev/llmflow-search) |
