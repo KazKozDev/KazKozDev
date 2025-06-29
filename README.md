@@ -20,7 +20,7 @@ KazKozDev@gmail.com
 
 - [NovelGenerator](https://github.com/KazKozDev/NovelGenerator): Fiction generator using LLM to create complete novels with coherent plots, developed characters, and diverse style.
 
-- [ConText](https://github.com/KazKozDev/ConText): Desktop app for secure, local text translation using Ollama LLMs.  
+- [ConText](https://github.com/KazKozDev/ConText): Desktop app for secure, local text translation using Ollama LLMs. It supports language detection, text-to-speech, web scraping, text summarization, and YouTube transcript extraction.
 
 - [BookTranslator](https://github.com/KazKozDev/book-translator): Specialized translation tool for large documents or books. Two-stage approach: Google Translate for initial conversion, then Ollama LLM refinement for literary quality and natural flow.
 
