@@ -42,7 +42,7 @@ KazKozDev@gmail.com
 
 - [DeepChain Refinement](https://github.com/KazKozDev/deepchain-refinement): Python-based system that automatically applies refinement techniques to LLM and reduces hallucination.
 
-
+- [MELC](https://github.com/KazKozDev/multi-expert-consensus): Multi-Expert LLM Consensus (MELC) is a distributed multi-agent LLM system that achieves reliable outputs through expert consensus and confidence-weighted validation.
 
 
 
