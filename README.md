@@ -33,6 +33,8 @@ KazKozDev@gmail.com
 
 - [LLMFlow Agent](https://github.com/KazKozDev/LLMFlow): An extensible framework for building AI agents based on the GAME (Goals, Actions, Memory, Environment) methodology.
 
+- [MELC](https://github.com/KazKozDev/multi-expert-consensus): Multi-Expert LLM Consensus (MELC) is a distributed multi-agent LLM system that achieves reliable outputs through expert consensus and confidence-weighted validation.
+
 
 ### Prompt Engineering
 
