@@ -33,6 +33,9 @@ KazKozDev@gmail.com
 
 - [LLMFlow Agent](https://github.com/KazKozDev/LLMFlow): An extensible framework for building AI agents based on the GAME (Goals, Actions, Memory, Environment) methodology.
 
+
+### Prompt Engineering
+
 - [Prompt Engineering Studio](https://github.com/KazKozDev/prompt-engineering-studio): Transforms your simple queries into advanced, optimized prompts using cutting-edge prompt engineering techniques.
 
 
