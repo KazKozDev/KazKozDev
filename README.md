@@ -30,3 +30,7 @@ KazKozDev@gmail.com
 ### LLM Agent Solutions
 
 - [LLMFlow Search](https://github.com/KazKozDev/llmflow-search): Intelligent research agent with multi-stage architecture (analyzes complex queries, performs deep web searches across multiple sources, and synthesizes comprehensive reports).  
+
+- [LLMFlow Agent](https://github.com/KazKozDev/LLMFlow): An extensible framework for building AI agents based on the GAME (Goals, Actions, Memory, Environment) methodology.
+
+  
