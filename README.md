@@ -22,7 +22,10 @@ KazKozDev@gmail.com
 
 - [ConText](https://github.com/KazKozDev/ConText): Desktop app for secure, local text translation using Ollama LLMs.  
 
-- [BookTranslator](https://github.com/KazKozDev/book-translator): Specialized translation tool for large documents or books. Two-stage approach: Google Translate for initial conversion, then Ollama LLM refinement for literary quality and natural flow.  
+- [BookTranslator](https://github.com/KazKozDev/book-translator): Specialized translation tool for large documents or books. Two-stage approach: Google Translate for initial conversion, then Ollama LLM refinement for literary quality and natural flow.
+
+- Fact Flow: Multi-stage fact-checking system.
+
 
 ### LLM Agent Solutions
 
