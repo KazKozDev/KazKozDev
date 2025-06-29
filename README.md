@@ -20,14 +20,14 @@ AI Text Processing Portfolio
 
 
 
-| Project | Description | Technologies | Repository |
-|---------|-------------|--------------|------------|
-| **NovelGenerator** | Fiction generator using LLM to create complete novels with coherent plots, developed characters, and diverse writing styles | Python, LLM APIs, Creative AI | [View Repo](https://github.com/KazKozDev/NovelGenerator) |
-| **ConText** | Desktop app for secure, local text translation using Ollama LLMs | Python, Ollama, Desktop GUI | [View Repo](https://github.com/KazKozDev/ConText) |
-| **BookTranslator** | Specialized book translation tool for large documents. Two-stage approach: Google Translate for initial conversion, then Ollama LLM refinement for literary quality and natural flow | Python, Google Translate API, Ollama, Flask | [View Repo](https://github.com/KazKozDev/book-translator) |
+| Project | Description | Repository |
+|---------|-------------|------------|
+| **NovelGenerator** | Fiction generator using LLM to create complete novels with coherent plots, developed characters, and diverse writing styles | [View Repo](https://github.com/KazKozDev/NovelGenerator) |
+| **ConText** | Desktop app for secure, local text translation using Ollama LLMs | [View Repo](https://github.com/KazKozDev/ConText) |
+| **BookTranslator** | Specialized book translation tool for large documents. Two-stage approach: Google Translate for initial conversion, then Ollama LLM refinement for literary quality and natural flow | [View Repo](https://github.com/KazKozDev/book-translator) |
 
 LLM Agent Solutions
 
-| Project | Description | Technologies | Repository |
-|---------|-------------|--------------|------------|
-| **LLMFlow Search** | Intelligent research agent with multi-stage architecture: analyzes complex queries, performs deep web searches across multiple sources, and synthesizes comprehensive reports | Python, LLM APIs, Web Scraping, DuckDuckGo API, Wikipedia API, Multi-Agent Framework | [View Repo](https://github.com/KazKozDev/llmflow-search) |
+| Project | Description | Repository |
+|---------|-------------|------------|
+| **LLMFlow Search** | Intelligent research agent with multi-stage architecture: analyzes complex queries, performs deep web searches across multiple sources, and synthesizes comprehensive reports | [View Repo](https://github.com/KazKozDev/llmflow-search) |
