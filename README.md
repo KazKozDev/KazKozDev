@@ -38,7 +38,7 @@ KazKozDev@gmail.com
 
 - [Prompt Engineering Studio](https://github.com/KazKozDev/prompt-engineering-studio): Transforms your simple queries into advanced, optimized prompts using cutting-edge prompt engineering techniques.
 
-- [DeepChain](https://github.com/KazKozDev/deepchain-refinement): Python-based system that automatically applies refinement techniques to LLM and reduces hallucination.
+- [DeepChain Refinement](https://github.com/KazKozDev/deepchain-refinement): Python-based system that automatically applies refinement techniques to LLM and reduces hallucination.
 
 
 
