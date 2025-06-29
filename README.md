@@ -42,7 +42,7 @@ KazKozDev@gmail.com
 
 - [DeepChain Refinement](https://github.com/KazKozDev/deepchain-refinement): Python-based system that automatically applies refinement techniques to LLM and reduces hallucination.
 
-- [MELC](https://github.com/KazKozDev/multi-expert-consensus): Multi-Expert LLM Consensus (MELC) is a distributed multi-agent LLM system that achieves reliable outputs through expert consensus and confidence-weighted validation.
+- [NetReflective Reasoning](https://github.com/KazKozDev/net-reflective-reasoning-llm): LLM reasoning method: combining reflexive cueing with real-time web search and multi-stage analysis for more accurate and explainable answers.
 
 
 
