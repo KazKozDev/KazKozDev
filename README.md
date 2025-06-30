@@ -3,7 +3,7 @@
 AI Engineer focused on multi-agent systems and LLM applications.
 
 ### Stack
-Python | LangChain | FastAPI | Hugging Face | Vector DBs
+PyTorch, TensorFlow, Hugging Face, LangChain, and Pydantic
 
 ### Projects
 
