@@ -9,6 +9,7 @@ PyTorch, TensorFlow, Hugging Face, LangChain, and Pydantic
 
 NLP
 - [Summarization Pipeline](https://github.com/KazKozDev/summarization-pipeline) -  
+- [Timecoder](https://github.com/KazKozDev/timecoder) - Analyzing YouTube video transcripts, segmenting, and generating timestamped summaries
 
 ### Agents & Automation
 - [LLMFlow Search](https://github.com/KazKozDev/llmflow-search) - Research agent that analyzes queries and synthesizes reports from multiple sources
@@ -20,7 +21,6 @@ NLP
 - [NovelGenerator](https://github.com/KazKozDev/NovelGenerator) - Complete novel generation with plot coherence
 - [ConText](https://github.com/KazKozDev/ConText) - Local translation + TTS + web scraping desktop app
 - [BookTranslator](https://github.com/KazKozDev/book-translator) - Large document translation pipeline
-- [Timecoder](https://github.com/KazKozDev/timecoder) - Analyzing YouTube video transcripts, segmenting, and generating timestamped summaries
   
 ### Prompt Engineering
 - [Prompt Engineering Studio](https://github.com/KazKozDev/prompt-engineering-studio) - Automatic prompt optimization
