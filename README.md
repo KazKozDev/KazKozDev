@@ -17,8 +17,8 @@ PyTorch, TensorFlow, Hugging Face, LangChain, and Pydantic
 - [NovelGenerator](https://github.com/KazKozDev/NovelGenerator) - Complete novel generation with plot coherence
 - [ConText](https://github.com/KazKozDev/ConText) - Local translation + TTS + web scraping desktop app
 - [BookTranslator](https://github.com/KazKozDev/book-translator) - Large document translation pipeline
-- [Timecoder](https://github.com/KazKozDev/timecoder) - Large document translation pipeline
-
+- [Timecoder](https://github.com/KazKozDev/timecoder) - Analyzing YouTube video transcripts, segmenting, and generating timestamped summaries
+  
 ### Prompt Engineering
 - [Prompt Engineering Studio](https://github.com/KazKozDev/prompt-engineering-studio) - Automatic prompt optimization
 - [DeepChain Refinement](https://github.com/KazKozDev/deepchain-refinement) - Reduces LLM hallucination through refinement
