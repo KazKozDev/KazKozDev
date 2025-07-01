@@ -7,6 +7,9 @@ PyTorch, TensorFlow, Hugging Face, LangChain, and Pydantic
 
 ### Projects
 
+NLP
+- [Summarization Pipeline](https://github.com/KazKozDev/summarization-pipeline) -  
+
 ### Agents & Automation
 - [LLMFlow Search](https://github.com/KazKozDev/llmflow-search) - Research agent that analyzes queries and synthesizes reports from multiple sources
 - [LLMFlow Agent](https://github.com/KazKozDev/LLMFlow) - GAME-based framework for building AI agents
