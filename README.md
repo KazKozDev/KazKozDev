@@ -5,9 +5,7 @@ AI Engineer focused on multi-agent systems and LLM applications.
 ### Stack
 PyTorch, TensorFlow, Hugging Face, LangChain, and Pydantic
 
-### Projects
-
-NLP
+### NLP Projects
 - [Summarization Pipeline](https://github.com/KazKozDev/summarization-pipeline) -  
 - [Timecoder](https://github.com/KazKozDev/timecoder) - Analyzing YouTube video transcripts, segmenting, and generating timestamped summaries
 
