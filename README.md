@@ -13,6 +13,7 @@ PyTorch, TensorFlow, Hugging Face, LangChain, and Pydantic
 - [LLMFlow Search](https://github.com/KazKozDev/llmflow-search) - Research agent that analyzes queries and synthesizes reports from multiple sources
 - [LLMFlow Agent](https://github.com/KazKozDev/LLMFlow) - GAME-based framework for building AI agents
 - [MELC](https://github.com/KazKozDev/multi-expert-consensus) - Multi-expert consensus system for reliable LLM outputs
+  
 - [Fact Flow](https://github.com/KazKozDev/fact-flow) - Multi-stage fact-checking system
   
 ### Text Processing  
