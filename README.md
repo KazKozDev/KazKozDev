@@ -1,6 +1,6 @@
 # Hi, I'm Artem KK
 
-AI Engineer focused on multi-agent systems and LLM applications.
+Generative AI Engineer focused on multi-agent systems and LLM applications.
 
 ### Stack
 PyTorch, TensorFlow, Hugging Face, LangChain, and Pydantic
