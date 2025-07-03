@@ -1,4 +1,4 @@
-# Hi, I'm Artem KK
+# Hi, I'm Artem
 
 Generative AI Engineer focused on multi-agent systems and LLM applications.
 
