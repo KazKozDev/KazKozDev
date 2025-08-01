@@ -15,7 +15,8 @@ PyTorch, TensorFlow, Hugging Face, LangChain, and Pydantic
 - [MELC](https://github.com/KazKozDev/multi-expert-consensus) - Multi-expert consensus system for reliable LLM outputs
 - [Murmur](https://github.com/KazKozDev/murmur) - A Mix of Agents orchestration system for distributed LLM processing
 - [Fact Flow](https://github.com/KazKozDev/fact-flow) - Multi-stage fact-checking system
-  
+- [Pathfinder](https://github.com/KazKozDev/pathfinder)  
+
 ## Text Processing  
 - [NovelGenerator](https://github.com/KazKozDev/NovelGenerator) - Complete novel generation with plot coherence
 - [ConText](https://github.com/KazKozDev/ConText) - Local translation + TTS + web scraping desktop app
