@@ -21,7 +21,7 @@ PyTorch, TensorFlow, Hugging Face, LangChain, and Pydantic
 - [NovelGenerator](https://github.com/KazKozDev/NovelGenerator) - Complete novel generation with plot coherence
 - [ConText](https://github.com/KazKozDev/ConText) - Local translation + TTS + web scraping desktop app
 - [BookTranslator](https://github.com/KazKozDev/book-translator) - Large document translation pipeline
-- [Reading Video Maker](https://github.com/KazKozDev/reading-video-maker) - aligns words to the audio, paginates the text to fit a page, and renders a video with word highlighting
+- [Reading Video Maker](https://github.com/KazKozDev/reading-video-maker) - aligns words to the audio, paginates the text, and renders a video with word highlighting
 - 
 ## Prompt Engineering
 - [Prompt Engineering Studio](https://github.com/KazKozDev/prompt-engineering-studio) - Automatic prompt optimization
