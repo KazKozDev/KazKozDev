@@ -10,6 +10,7 @@ PyTorch, TensorFlow, Hugging Face, LangChain, and Pydantic
 - [Timecoder](https://github.com/KazKozDev/timecoder) - Analyzing YouTube video transcripts, segmenting, and generating timestamped summaries
 
 ## Agents & Automation
+- [langchain-based-ai-agent-framework](https://github.com/KazKozDev/langchain-based-ai-agent-framework) - With comprehensive tool integration, RAG capabilities
 - [LLMFlow Search](https://github.com/KazKozDev/llmflow-search) - Research agent that analyzes queries and synthesizes reports from multiple sources
 - [LLMFlow Agent](https://github.com/KazKozDev/LLMFlow) - GAME-based framework for building AI agents
 - [MELC](https://github.com/KazKozDev/multi-expert-consensus) - Multi-expert consensus system for reliable LLM outputs
