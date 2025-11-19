@@ -25,6 +25,7 @@ PyTorch, TensorFlow, Hugging Face, LangChain, and Pydantic
   
 ## Prompt Engineering
 - [Prompt Engineering Studio](https://github.com/KazKozDev/prompt-engineering-studio) - Automatic prompt optimization
+- [System Prompt Benchmark](https://github.com/KazKozDev/system-prompt-benchmark) 
 - [DeepChain Refinement](https://github.com/KazKozDev/deepchain-refinement) - Reduces LLM hallucination through refinement
 - [NetReflective Reasoning](https://github.com/KazKozDev/net-reflective-reasoning-llm) - Enhanced reasoning with web search integration
 
