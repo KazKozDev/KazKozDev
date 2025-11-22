@@ -7,7 +7,7 @@ Prompt Engineer and Generative AI builder focused on autonomous Agentic AI.
 * [**llm-finetuning-recipes**](https://github.com/KazKozDev/llm-finetuning-recipes) — Efficient pipeline for fine-tuning open-source LLMs (Llama 3, Mistral) using QLoRA and PEFT adapters on custom datasets.
 * [**llm-observability-stack**](https://github.com/KazKozDev/llm-observability-stack) — Lightweight observability solution for LLM applications providing request tracing, token cost analysis, and latency monitoring.
 
-## Agentic AI
+## Agentic AI Solutions
 * [**NovelGenerator**](https://github.com/KazKozDev/NovelGenerator) — Fiction generator using LLM agents to create complete novels with coherent plots.
 * [**LLMFlow Agent**](https://github.com/KazKozDev/LLMFlow) — GAME-based framework for building AI agents.
 * [**LLMFlow Search**](https://github.com/KazKozDev/llmflow-search) — Research agent that analyzes queries and synthesizes report from multiple sources.
