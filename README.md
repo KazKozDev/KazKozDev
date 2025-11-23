@@ -2,10 +2,10 @@
 Prompt Engineer and Generative AI builder focused on autonomous Agentic AI.
 
 ## LLM Systems & Infrastructure
-* [**production-rag**](https://github.com/KazKozDev/production-rag) — Production-quality Retrieval-Augmented Generation with multi-strategy retrieval and comprehensive evaluation framework.
-* [**llm-evaluation-framework**](https://github.com/KazKozDev/llm-evaluation-framework) — Production-grade LLM evaluation framework with A/B testing, benchmarking, and LLM-as-a-judge.
-* [**llm-finetuning-recipes**](https://github.com/KazKozDev/llm-finetuning-recipes) — Efficient pipeline for fine-tuning open-source LLMs (Llama 3, Mistral) using QLoRA and PEFT adapters on custom datasets.
-* [**llm-observability-stack**](https://github.com/KazKozDev/llm-observability-stack) — Lightweight observability solution for LLM applications providing request tracing, token cost analysis, and latency monitoring.
+* [**production-rag**](https://github.com/KazKozDev/production-rag) — Multi-strategy retrieval, hybrid search, and comprehensive evaluation framework.
+* [**llm-evaluation-framework**](https://github.com/KazKozDev/llm-evaluation-framework) — A/B testing pipeline, benchmarking, and LLM-as-a-judge implementation.
+* [**llm-finetuning-recipes**](https://github.com/KazKozDev/llm-finetuning-recipes) — Efficient pipeline for fine-tuning (Llama 3, Mistral) using QLoRA/PEFT.
+* [**llm-observability-stack**](https://github.com/KazKozDev/llm-observability-stack) — Request tracing, token cost analysis, and latency monitoring solution.
 
 ## Agentic AI Solutions
 * [**NovelGenerator**](https://github.com/KazKozDev/NovelGenerator) — Fiction generator using LLM agents to create complete novels with coherent plots.
