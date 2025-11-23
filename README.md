@@ -19,10 +19,10 @@ Prompt Engineer and Generative AI builder focused on autonomous Agentic AI.
 ## Production Prompt Engineering
 *Optimizing the interface between human intent and model output.*
 * [**Prompt Engineering Studio**](https://github.com/KazKozDev/prompt-engineering-studio) — Transforms basic inquiries into research-backed prompts optimized for performance metrics.
-* [**System Prompt Benchmark**](https://github.com/KazKozDev/system-prompt-benchmark) — Test LLM system prompts against 287 real-world attack vectors (injections, jailbreaks, leaks).
-* [**DeepChain Refinement**](https://github.com/KazKozDev/deepchain-refinement) — Three-stage refinement pipeline (CoT → enrichment → validation) improving accuracy.
-* [**synthetic-data-foundry**](https://github.com/KazKozDev/synthetic-data-foundry) — Data synthesis pipeline leveraging frontier models to generate high-quality, diverse training datasets for model distillation.
-* [**dspy-optimization-patterns**](https://github.com/KazKozDev/dspy-optimization-patterns) — Implementation of programmatic prompt optimization strategies using DSPy to replace brittle manual prompting with compiled logic.
+* [**System Prompt Benchmark**](https://github.com/KazKozDev/system-prompt-benchmark) — Security testing against 287+ attack vectors (jailbreaks, injections).
+* [**DeepChain Refinement**](https://github.com/KazKozDev/deepchain-refinement) — 3-stage CoT refinement pipeline.
+* [**synthetic-data-foundry**](https://github.com/KazKozDev/synthetic-data-foundry) — Generating high-quality datasets for model distillation.
+* [**dspy-optimization-patterns**](https://github.com/KazKozDev/dspy-optimization-patterns) — Programmatic optimization using DSPy.
 
 ---
 **Contact:** KazKozDev@gmail.com | [LinkedIn](https://linkedin.com/in/kazkozdev)
