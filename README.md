@@ -1,5 +1,5 @@
 # Hi, I'm Artem
-Prompt Engineer and Generative AI builder focused on autonomous Agentic AI.
+Prompt Engineer and Generative AI builder focused on autonomous Agentic AI
 
 ## LLM Systems & Infrastructure
 *Architecting robust, scalable foundations for Generative AI*
