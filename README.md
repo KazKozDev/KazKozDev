@@ -33,5 +33,3 @@ AI Systems Architect | Agentic AI Builder | Prompt Engineer
 * [Dataset Creator](https://github.com/KazKozDev/dataset-creator) — Generating high-quality datasets for model distillation
 * [dspy-optimization-patterns](https://github.com/KazKozDev/dspy-optimization-patterns) — Programmatic optimization using DSPy
 
----
-**Contact:** ✉️ KazKozDev@gmail.com | 👥 [LinkedIn](https://linkedin.com/in/kazkozdev)
