@@ -12,7 +12,7 @@ Prompt Engineer and Generative AI builder focused on autonomous Agentic AI.
 *Designing autonomous systems capable of complex reasoning and execution*
 * [NovelGenerator](https://github.com/KazKozDev/NovelGenerator) — ⭐ Fiction generator using multi-agent swarm to create complete novels with coherent plots. 
 * [LLMFlow Agent](https://github.com/KazKozDev/LLMFlow) — GAME-based framework for building autonomous AI agents.
-* [LLMFlow Search](https://github.com/KazKozDev/llmflow-search) — Deep research agent that synthesizes reports from multiple web sources.
+* [LLMFlow Search](https://github.com/KazKozDev/llmflow-search) — ⭐ Deep research agent that synthesizes reports from multiple web sources.
 * [vision-agent-analyst](https://github.com/KazKozDev/vision-agent-analyst) — Multimodal agent analyzing charts, UI screenshots, and PDFs for reporting.
 * [dev-ops-agent](https://github.com/KazKozDev/dev-ops-agent) — Technical agent performing code reviews and automated bug-fixing proposals.
 
