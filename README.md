@@ -25,4 +25,4 @@ Prompt Engineer and Generative AI builder focused on autonomous Agentic AI.
 * [dspy-optimization-patterns](https://github.com/KazKozDev/dspy-optimization-patterns) — Programmatic optimization using DSPy
 
 ---
-**Contact:** KazKozDev@gmail.com | [LinkedIn](https://linkedin.com/in/kazkozdev)
+**Contact:** ✉️ KazKozDev@gmail.com | 👥 [LinkedIn](https://linkedin.com/in/kazkozdev)
