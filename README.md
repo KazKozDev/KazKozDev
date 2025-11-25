@@ -1,5 +1,5 @@
 # Hi, I'm Artem
-AI Systems Architect | Agentic AI Builder | Prompt Engineer
+AI Systems | Agentic AI Builder | Prompt Engineer
 <p>
   <img src="https://img.shields.io/badge/Python-526E87?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-547696?style=flat-square&logo=typescript&logoColor=white" />
