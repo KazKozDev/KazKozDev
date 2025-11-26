@@ -1,6 +1,5 @@
 ## Hi, I'm Artem
-AI Agent Developer & Prompt Engineer. <br>Autonomous AI systems — agents, LLM apps, prompt optimization. <br>Background in ML data quality.
-
+AI Agent Developer & Prompt Engineer. <br>Autonomous AI systems — agents, LLM apps, prompt optimization. <br>Background in ML data quality & LLM evaluation.
 <p>
   <img src="https://img.shields.io/badge/Python-526E87?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-547696?style=flat-square&logo=typescript&logoColor=white" />
