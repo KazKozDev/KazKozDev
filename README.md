@@ -1,4 +1,4 @@
-# Hi, I'm Artem
+## Hi, I'm Artem
 AI Agent Developer & Prompt Engineer building autonomous AI systems for business — agents, LLM apps, prompt optimization. Background in ML data quality.
 
 <p>
