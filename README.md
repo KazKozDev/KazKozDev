@@ -1,5 +1,6 @@
 # Hi, I'm Artem
-AI Systems | Agentic AI Builder | Prompt Engineer
+AI Agent Developer & Prompt Engineer Building autonomous AI systems for business — agents, LLM apps, prompt optimization. Background in ML data quality.
+
 <p>
   <img src="https://img.shields.io/badge/Python-526E87?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-547696?style=flat-square&logo=typescript&logoColor=white" />
@@ -9,14 +10,6 @@ AI Systems | Agentic AI Builder | Prompt Engineer
   <img src="https://img.shields.io/badge/LangGraph-455A64?style=flat-square&logo=diagram&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-5C7E91?style=flat-square&logo=docker&logoColor=white" />
 </p>
-
-## LLM Systems & Infrastructure
-*Architecting robust, scalable foundations for Generative AI*
-* [Genai Project Template](https://github.com/KazKozDev/genai-project-template) - Project template and agent system prompt for building structured GenAI applications
-* [Production Rag](https://github.com/KazKozDev/production-rag) — Multi-strategy retrieval, hybrid search, and comprehensive evaluation framework
-* [llm-evaluation-framework](https://github.com/KazKozDev/llm-evaluation-framework) — A/B testing pipeline, benchmarking, and LLM-as-a-judge implementation
-* [llm-finetuning-recipes](https://github.com/KazKozDev/llm-finetuning-recipes) — Efficient pipeline for fine-tuning (Llama 3, Mistral) using QLoRA/PEFT
-* [llm-observability-stack](https://github.com/KazKozDev/llm-observability-stack) — Request tracing, token cost analysis, and latency monitoring solution
 
 ## Agentic AI Solutions
 *Designing autonomous systems capable of complex reasoning and execution*
@@ -34,3 +27,10 @@ AI Systems | Agentic AI Builder | Prompt Engineer
 * [Synthetic Data Foundry](https://github.com/KazKozDev/dataset-creator) — Generating high-quality datasets for model distillation
 * [dspy-optimization-patterns](https://github.com/KazKozDev/dspy-optimization-patterns) — Programmatic optimization using DSPy
 
+## LLM Systems & Infrastructure
+*Architecting robust, scalable foundations for Generative AI*
+
+* [Production Rag](https://github.com/KazKozDev/production-rag) — Multi-strategy retrieval, hybrid search, and comprehensive evaluation framework
+* [llm-evaluation-framework](https://github.com/KazKozDev/llm-evaluation-framework) — A/B testing pipeline, benchmarking, and LLM-as-a-judge implementation
+* [llm-finetuning-recipes](https://github.com/KazKozDev/llm-finetuning-recipes) — Efficient pipeline for fine-tuning (Llama 3, Mistral) using QLoRA/PEFT
+* [llm-observability-stack](https://github.com/KazKozDev/llm-observability-stack) — Request tracing, token cost analysis, and latency monitoring solution
