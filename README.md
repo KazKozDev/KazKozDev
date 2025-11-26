@@ -21,7 +21,6 @@ AI Agent Developer & Prompt Engineer Building autonomous AI systems for business
 *Optimizing the interface between human intent and model output*
 * [Prompt Engineering Studio](https://github.com/KazKozDev/prompt-engineering-studio) — Transforms basic inquiries into research-backed prompts optimized for performance metrics
 * [System Prompt Benchmark](https://github.com/KazKozDev/system-prompt-benchmark) — Security testing against 287+ attack vectors (jailbreaks, injections)
-* [DeepChain Refinement](https://github.com/KazKozDev/deepchain-refinement) — 3-stage CoT refinement pipeline
 * [Synthetic Data Foundry](https://github.com/KazKozDev/dataset-creator) — Generating high-quality datasets for model distillation
 * [dspy-optimization-patterns](https://github.com/KazKozDev/dspy-optimization-patterns) — Programmatic optimization using DSPy
 
