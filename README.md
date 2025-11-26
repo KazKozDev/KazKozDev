@@ -5,10 +5,8 @@ AI Agent Developer & Prompt Engineer Building autonomous AI systems for business
   <img src="https://img.shields.io/badge/Python-526E87?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-547696?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-9E5C4B?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-C7B35D?style=flat-square&logo=huggingface&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-455A64?style=flat-square&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-455A64?style=flat-square&logo=diagram&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-5C7E91?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
 ## Agentic AI Solutions
