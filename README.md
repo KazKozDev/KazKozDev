@@ -12,6 +12,7 @@ AI Systems | Agentic AI Builder | Prompt Engineer
 
 ## LLM Systems & Infrastructure
 *Architecting robust, scalable foundations for Generative AI*
+* [Genai Project Template](https://github.com/KazKozDev/genai-project-template) - Project template and agent system prompt for building structured GenAI applications
 * [Production Rag](https://github.com/KazKozDev/production-rag) — Multi-strategy retrieval, hybrid search, and comprehensive evaluation framework
 * [llm-evaluation-framework](https://github.com/KazKozDev/llm-evaluation-framework) — A/B testing pipeline, benchmarking, and LLM-as-a-judge implementation
 * [llm-finetuning-recipes](https://github.com/KazKozDev/llm-finetuning-recipes) — Efficient pipeline for fine-tuning (Llama 3, Mistral) using QLoRA/PEFT
