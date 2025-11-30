@@ -27,5 +27,3 @@ AI Agent Developer & Prompt Engineer. <br>Autonomous AI systems — agents, LLM 
 
 * [Production Rag](https://github.com/KazKozDev/production-rag) — Multi-strategy retrieval, hybrid search, and comprehensive evaluation framework
 * [llm-evaluation-framework](https://github.com/KazKozDev/llm-evaluation-framework) — A/B testing pipeline, benchmarking, and LLM-as-a-judge implementation
-* [llm-finetuning-recipes](https://github.com/KazKozDev/llm-finetuning-recipes) — Efficient pipeline for fine-tuning (Llama 3, Mistral) using QLoRA/PEFT
-* [llm-observability-stack](https://github.com/KazKozDev/llm-observability-stack) — Request tracing, token cost analysis, and latency monitoring solution
