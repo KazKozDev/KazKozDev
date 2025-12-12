@@ -1,3 +1,5 @@
+<img width="1026" height="251" alt="Screenshot 2025-12-12 at 17 22 45" src="https://github.com/user-attachments/assets/a342fa69-07d5-4397-ab0c-264c2c115107" />
+
 ## Hi, I'm Artem
 AI Agent Developer & Prompt Engineer. <br>Autonomous AI systems — agents, LLM apps, prompt optimization. <br>Background in ML data quality & LLM evaluation.
 <p>
