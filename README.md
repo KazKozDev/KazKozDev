@@ -15,7 +15,7 @@ Background in ML data quality and LLM evaluation; I treat prompts as measurable 
 ### Prompt Engineering
 - [prompt-engineering-studio](https://github.com/KazKozDev/prompt-engineering-studio) — local-first workspace for prompt design and evals with **70+ prompting techniques**.
 - [system-prompt-benchmark](https://github.com/KazKozDev/system-prompt-benchmark) — security testing across **287+ attack vectors** (injection, jailbreaks, leakage).
-- [dspy-optimization-patterns](https://github.com/KazKozDev/dspy-optimization-patterns) — teacher-student optimization patterns for quality/cost trade-offs (**up to 50x cost reduction scenarios**).
+- [dspy-optimization-patterns](https://github.com/KazKozDev/dspy-optimization-patterns) — teacher-student optimization patterns for quality/cost trade-offs (**up to 50x cost reduction).
 - [dataset-creator](https://github.com/KazKozDev/dataset-creator) — synthetic dataset generation for distillation and prompt/eval workflows.
 
 ### Agentic AI
