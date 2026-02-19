@@ -1,31 +1,39 @@
-<img width="1026" height="251" alt="Screenshot 2025-12-12 at 17 22 45" src="https://github.com/user-attachments/assets/a342fa69-07d5-4397-ab0c-264c2c115107" />
-
 ## Hi, I'm Artem
-AI Agent Developer & Prompt Engineer. <br>Autonomous AI systems — agents, LLM apps, prompt optimization. <br>Background in ML data quality & LLM evaluation.
+
+Prompt Engineer & LLM Behavior Engineer.  
+I build reliable LLM workflows: prompt systems, evaluation pipelines, and agent automation for real-world tasks.
+
+- Open to roles: **Prompt Engineer**, **LLM Behavior Engineer**, **AI Automation Engineer**
+- Focus: prompt quality, safety, evals, and production reliability
+- Contact: **kazkozdev@gmail.com**
+- LinkedIn: [Artem KK](https://www.linkedin.com/in/kazkozdev/)
+
 <p>
   <img src="https://img.shields.io/badge/Python-526E87?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-547696?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-9E5C4B?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSPy-455A64?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-455A64?style=flat-square&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-455A64?style=flat-square&logo=diagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-455A64?style=flat-square&logoColor=white" />
 </p>
 
-## Agentic AI Solutions
-*Autonomous systems capable of complex reasoning and execution*
-* [NovelGenerator](https://github.com/KazKozDev/NovelGenerator) — Fiction generator using multi-agent swarm to create complete novels with coherent plots
-* [LLMFlow Agent](https://github.com/KazKozDev/LLMFlow) — GAME-based framework for building autonomous AI agents
-* [LLMFlow Search](https://github.com/KazKozDev/llmflow-search) — Deep research agent that synthesizes reports from multiple web sources
-* [Vision Agent Analyst](https://github.com/KazKozDev/vision-agent-analyst) — Multimodal agent analyzing charts, UI screenshots, and PDFs for reporting
-* [dev-ops-agent](https://github.com/KazKozDev/dev-ops-agent) — Technical agent performing code reviews and automated bug-fixing proposals
+---
+
+## Agentic AI
+
+- [NovelGenerator](https://github.com/KazKozDev/NovelGenerator) — Multi-agent fiction generation pipeline with autonomous orchestration
+- [LLMFlow Search](https://github.com/KazKozDev/llmflow-search) — Deep research agent that synthesizes reports from multiple web sources
+- [Vision Agent Analyst](https://github.com/KazKozDev/vision-agent-analyst) — Multimodal agent analyzing charts, UI screenshots, and PDFs
+- [browser-agent-chrome-extension](https://github.com/KazKozDev/browser-agent-chrome-extension) — Chrome browser agent for cost-efficient task automation
 
 ## Production Prompt Engineering
-*Interface between human intent and LLM output*
-* [Prompt Engineering Studio](https://github.com/KazKozDev/prompt-engineering-studio) — Transforms basic inquiries into research-backed prompts optimized for performance metrics
-* [System Prompt Benchmark](https://github.com/KazKozDev/system-prompt-benchmark) — Security testing against 287+ attack vectors (jailbreaks, injections)
-* [Synthetic Data Foundry](https://github.com/KazKozDev/dataset-creator) — Generating high-quality datasets for model distillation
-* [dspy-optimization-patterns](https://github.com/KazKozDev/dspy-optimization-patterns) — Programmatic optimization using DSPy
 
-## LLM Systems & Infrastructure
+- [Prompt Engineering Studio](https://github.com/KazKozDev/prompt-engineering-studio) — Local-first workbench for designing, evaluating, and deploying prompts with reproducible workflows
+- [System Prompt Benchmark](https://github.com/KazKozDev/system-prompt-benchmark) — Security testing against 287+ attack vectors: injections, jailbreaks, data leakage
+- [Synthetic Data Foundry](https://github.com/KazKozDev/dataset-creator) — High-quality dataset generation for model distillation
+- [dspy-optimization-patterns](https://github.com/KazKozDev/dspy-optimization-patterns) — Teacher-student optimization patterns for quality/cost trade-offs
 
-* [Production Rag](https://github.com/KazKozDev/production-rag) — Multi-strategy retrieval, hybrid search, and comprehensive evaluation framework
-* [llm-evaluation-framework](https://github.com/KazKozDev/llm-evaluation-framework) — A/B testing pipeline, benchmarking, and LLM-as-a-judge implementation
+## LLM Evaluation & Infrastructure
+
+- [llm-evaluation-framework](https://github.com/KazKozDev/llm-evaluation-framework) — A/B testing, benchmarking, LLM-as-a-judge, and regression tracking
+- [Production RAG](https://github.com/KazKozDev/production-rag) — Multi-strategy retrieval with hybrid search and evaluation support
