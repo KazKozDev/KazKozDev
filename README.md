@@ -28,7 +28,7 @@ I build reliable LLM workflows: prompt systems, evaluation pipelines, and agent 
 
 ## Production Prompt Engineering
 
-- [Prompt Engineering Studio](https://github.com/KazKozDev/prompt-engineering-studio) — Local-first workbench for designing, evaluating, and deploying prompts with reproducible workflows
+- [Prompt Engineering Studio](https://github.com/KazKozDev/prompt-engineering-studio) — Local-first workbench for designing, evaluating, and deploying prompts
 - [System Prompt Benchmark](https://github.com/KazKozDev/system-prompt-benchmark) — Security testing against 287+ attack vectors: injections, jailbreaks, data leakage
 - [Synthetic Data Foundry](https://github.com/KazKozDev/dataset-creator) — High-quality dataset generation for model distillation
 - [dspy-optimization-patterns](https://github.com/KazKozDev/dspy-optimization-patterns) — Teacher-student optimization patterns for quality/cost trade-offs
