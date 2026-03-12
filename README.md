@@ -4,7 +4,7 @@
 I build reliable LLM workflows: prompt systems, evaluation pipelines, and agent automation for real-world tasks.  
 Background in ML data quality and LLM evaluation; I treat prompts as measurable systems.
 
-ё- Contact: **kazkozdev@gmail.com**
+- Contact: **kazkozdev@gmail.com**
 - LinkedIn: [Artem KK](https://www.linkedin.com/in/kazkozdev/)
 
 ---
