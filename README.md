@@ -19,7 +19,7 @@ Background in ML data quality and LLM evaluation; I treat prompts as measurable 
 - [dataset-creator](https://github.com/KazKozDev/dataset-creator) — synthetic dataset generation for distillation and prompt/eval workflows.
 
 ### Agentic AI
-- [NovelGenerator](https://github.com/KazKozDev/NovelGenerator) — autonomous multi-agent fiction pipeline (**86 stars**).
+- [NovelGenerator](https://github.com/KazKozDev/NovelGenerator) — autonomous multi-agent fiction pipeline (**95+ stars**).
 - [browser-agent-chrome-extension](https://github.com/KazKozDev/browser-agent-chrome-extension) — Claude-like Chrome browser agent focused on cost-efficient automation.
 - [llmflow-search](https://github.com/KazKozDev/llmflow-search) — deep research agent that synthesizes reports from multiple web sources.
 - [vision-agent-analyst](https://github.com/KazKozDev/vision-agent-analyst) — multimodal analysis for charts, UI screenshots, and PDFs.
