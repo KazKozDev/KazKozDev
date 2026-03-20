@@ -1,5 +1,3 @@
-## Hi, I'm Artem
-
 **Prompt & LLM Behavior Engineer**  
 I build reliable LLM workflows: prompt systems, evaluation pipelines, and agent automation for real-world tasks.  
 Background in ML data quality and LLM evaluation; I treat prompts as measurable systems.
