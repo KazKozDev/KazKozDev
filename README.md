@@ -2,7 +2,6 @@
 I build reliable LLM workflows: prompt systems, evaluation pipelines, and agent automation for real-world tasks.  
 Background in ML data quality and LLM evaluation; I treat prompts as measurable systems.
 
----
 
 ## Featured Projects
 
@@ -22,7 +21,7 @@ Background in ML data quality and LLM evaluation; I treat prompts as measurable 
 - [llm-evaluation-framework](https://github.com/KazKozDev/llm-evaluation-framework) — A/B testing, benchmarking, LLM-as-a-judge, regression tracking.
 - [production-rag](https://github.com/KazKozDev/production-rag) — multi-strategy retrieval, hybrid search, and evaluation support.
 
----
+
 
 ## Core Stack
 
