@@ -2,7 +2,7 @@
 <img width="1280" height="320" alt="github-banner" src="https://github.com/user-attachments/assets/ed29e8f0-4c77-481c-8551-a74ef247b186" />
 
 <br><br>
-AI Engineer — prompt systems, LLM evaluation, agentic AI.<br>
+AI Engineer — prompt systems, agentic AI.<br>
 I build reliable LLM workflows: prompt systems, evaluation pipelines, and agent automation.  
 Background in ML data quality and LLM evaluation.
 
