@@ -16,10 +16,6 @@ Background in ML data quality and LLM evaluation; I treat prompts as measurable 
 - [llmflow-search](https://github.com/KazKozDev/llmflow-search) — deep research agent that synthesizes reports from multiple web sources.
 - [vision-agent-analyst](https://github.com/KazKozDev/vision-agent-analyst) — multimodal analysis for charts, UI screenshots, and PDFs.
 
-### Evaluation & Infrastructure
-- [llm-evaluation-framework](https://github.com/KazKozDev/llm-evaluation-framework) — A/B testing, benchmarking, LLM-as-a-judge, regression tracking.
-- [production-rag](https://github.com/KazKozDev/production-rag) — multi-strategy retrieval, hybrid search, and evaluation support.
-
 
 
 ## Core Stack
