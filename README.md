@@ -1,5 +1,5 @@
 
-<img width="1280" height="320" alt="github-banner" src="https://github.com/user-attachments/assets/e32f8675-d534-4a63-9855-d4dc59c94421" />
+<img width="1280" height="320" alt="github-banner" src="https://github.com/user-attachments/assets/1e5d4cea-2c74-47e4-ba43-96203df75255" />
 
 <br>
 AI Engineer — prompt systems, LLM evaluation, agentic AI.<br>
