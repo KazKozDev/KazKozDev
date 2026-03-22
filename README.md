@@ -7,7 +7,7 @@ I build reliable LLM workflows: prompt systems, evaluation pipelines, and agent 
 Background in ML data quality and LLM evaluation; I treat prompts as measurable systems.
 
 
-## Featured Projects
+
 
 ### Prompt Engineering
 - [prompt-engineering-studio](https://github.com/KazKozDev/prompt-engineering-studio) — local-first workspace for prompt design and evals with **70+ prompting techniques**.
