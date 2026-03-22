@@ -1,7 +1,7 @@
 
-<img width="1280" height="320" alt="github-banner" src="https://github.com/user-attachments/assets/1e5d4cea-2c74-47e4-ba43-96203df75255" />
+<img width="1280" height="320" alt="github-banner" src="https://github.com/user-attachments/assets/ed29e8f0-4c77-481c-8551-a74ef247b186" />
 
-<br>
+<br><br>
 AI Engineer — prompt systems, LLM evaluation, agentic AI.<br>
 I build reliable LLM workflows: prompt systems, evaluation pipelines, and agent automation for real-world tasks.  
 <br>Background in ML data quality and LLM evaluation; I treat prompts as measurable systems.
@@ -24,4 +24,4 @@ I build reliable LLM workflows: prompt systems, evaluation pipelines, and agent 
 
 ## Core Stack
 
-`Python` `TypeScript` `DSPy` `LangChain` `LangGraph` `RAG` `Prompt Engineering` `LLM Evals` `Agentic Workflows`
+`Python` `TypeScript` `DSPy` `RAG` `Prompt Engineering` `LLM Evals` `Agentic Workflows`
