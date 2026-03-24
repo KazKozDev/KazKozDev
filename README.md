@@ -1,5 +1,5 @@
 
-<img width="1280" height="320" alt="github-banner" src="https://github.com/user-attachments/assets/ed29e8f0-4c77-481c-8551-a74ef247b186" />
+<img width="1280" height="320" alt="github-bannerr" src="https://github.com/user-attachments/assets/e44865ce-1395-4a3d-ac00-fdae00141617" />
 
 <br><br>
 AI Engineer — prompt systems, agentic AI.<br>
