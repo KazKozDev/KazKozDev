@@ -17,8 +17,7 @@ Background in ML data quality and LLM evaluation.
 ### Agentic AI
 - [NovelGenerator](https://github.com/KazKozDev/NovelGenerator) — autonomous multi-agent fiction pipeline.
 - [llmflow-search](https://github.com/KazKozDev/llmflow-search) — deep research agent that synthesizes reports from multiple web sources.
-- [LISTING-INTELLIGENCE](https://github.com/KazKozDev/LISTING-INTELLIGENCE) — full-stack AI application for marketplace listing intelligence.
-
+- [RAG Agent](https://github.com/KazKozDev/rag-agent) — RAG agent with hybrid search, page-number citations, and a LangGraph state machine.
 
 
 ### Core Stack
