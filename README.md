@@ -2,9 +2,9 @@
 <img width="1280" height="320" alt="github-bannerr" src="https://github.com/user-attachments/assets/e44865ce-1395-4a3d-ac00-fdae00141617" />
 
 <br><br>
-AI Engineer — prompt systems, agentic AI.<br>
-I build reliable LLM workflows: evaluation pipelines, and agent automation.  
-Background in ML data quality and LLM evaluation.
+AI Engineer — prompt systems, agentic AI<br>
+I build reliable LLM workflows: evaluation pipelines, and agent automation
+Background in ML data quality and LLM evaluation
 
 
 
@@ -12,7 +12,6 @@ Background in ML data quality and LLM evaluation.
 ### Prompt Engineering
 - [system-prompt-benchmark](https://github.com/KazKozDev/system-prompt-benchmark) — security testing across attack vectors (injection, jailbreaks, leakage)
 - [dspy-optimization-patterns](https://github.com/KazKozDev/dspy-optimization-patterns) — teacher-student optimization patterns for quality/cost trade-offs (up to 50x cost reduction)
-- [synth-dataset-kit](https://github.com/KazKozDev/synth-dataset-kit/) - CLI tool for generating high-quality synthetic datasets for LLM fine-tuning
 
 ### Agentic AI
 - [NovelGenerator](https://github.com/KazKozDev/NovelGenerator) — autonomous multi-agent fiction pipeline
