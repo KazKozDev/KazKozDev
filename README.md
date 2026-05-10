@@ -3,7 +3,7 @@
 
 <br><br>
 AI Engineer — prompt systems, agentic AI<br>
-I build reliable LLM workflows: evaluation pipelines, and agent automation
+I build reliable LLM workflows: evaluation pipelines, and agent automation<br>
 Background in ML data quality and LLM evaluation
 
 
