@@ -15,7 +15,7 @@ Background in ML data quality and LLM evaluation
 
 ### Agentic AI
 - [RAG Agent](https://github.com/KazKozDev/rag-agent) — with hybrid search, page-number citations, and a LangGraph state machine
-- [Production Rag Pipeline](https://github.com/KazKozDev/production_rag_pipeline) — free Perplexity-style search for local sLLM
+- [Production RAG Pipeline](https://github.com/KazKozDev/production_rag_pipeline) — free Perplexity-style search for local sLLM
 - [llmflow-search](https://github.com/KazKozDev/llmflow-search) — deep research agent that synthesizes reports from multiple web sources
 
 ### Core Stack
