@@ -9,4 +9,4 @@ Background in ML data quality and LLM evaluation
 
 ### Core Stack
 
-`Python` `TypeScript` `LangGraph` `DSPy` `RAG` `Prompt Engineering` `Agentic AI` 
+`Python` `TypeScript` `LangGraph` `DSPy` `RAG` `Prompt Engineering` `LLM` 
