@@ -7,6 +7,4 @@ I build reliable LLM workflows: evaluation pipelines, and agent automation<br>
 Background in ML data quality and LLM evaluation
 
 
-### Core Stack
-
 `Python` `TypeScript` `LangGraph` `DSPy` `RAG` `Prompt Engineering` `LLM` 
