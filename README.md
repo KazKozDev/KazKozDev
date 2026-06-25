@@ -4,7 +4,6 @@
 <br><br>
 AI Engineering, prompt systems, agentic AI<br>
 LLM workflows: evaluation pipelines, and agent automation<br>
-Background in ML data quality and LLM evaluation
 
 
 `Python` `TypeScript` `LangGraph` `DSPy` `RAG` `Prompt Engineering` `LLM` 
