@@ -14,7 +14,7 @@ I build and deploy practical AI projects using local and cloud models.
 * MCP integrations and reliable workflows
 * RAG, fine-tuning, and LLM inference
 * Evaluation, safety, and performance
-
+<br><br>
 `Python` · `TypeScript` · `MCP` · `Ollama` · `RAG` · `Fine-tuning` · `Tool Calling` · `Structured Outputs` · `LLM Evaluation`
 
 
