@@ -15,9 +15,6 @@ I build and deploy practical AI projects using local and cloud models.
 * RAG, fine-tuning, and LLM inference
 * Evaluation, safety, and performance
 
-## Tech
-
 `Python` · `TypeScript` · `MCP` · `Ollama` · `RAG` · `Fine-tuning` · `Tool Calling` · `Structured Outputs` · `LLM Evaluation`
 
-Barcelona, Spain
-[LinkedIn](https://www.linkedin.com/in/kazkozdev/) · [Email](mailto:YOUR_EMAIL)
+
