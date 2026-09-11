@@ -15,8 +15,7 @@ I ship LLM applications end to end — retrieval, agent design, deployment.
   outputs, retries, and guardrails
 - **RAG** — chunking, hybrid retrieval, re-ranking, grounded citations,
   eval-driven iteration
-- **Local & cloud inference** — Ollama and vLLM alongside OpenAI / Anthropic /
-  Gemini APIs; routing and caching to cut cost and latency
+- **Local & cloud inference** — Ollama and vLLM alongside OpenAI / Anthropic; routing and caching to cut cost and latency
 - **Production** — Python, FastAPI, Docker; tracing, evals, and cost/latency
   monitoring built into every project
 
