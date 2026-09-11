@@ -9,11 +9,18 @@ I build and deploy practical AI projects using local and cloud models.
 
 ## What I work on
 
-* AI agents, tool calling, and browser automation
-* MCP integrations and reliable workflows
-* RAG, fine-tuning, and LLM inference
-* Evaluation, safety, and performance
-<br><br><br>
+I ship LLM applications end to end — retrieval, agent design, deployment.
+
+- **Agents & tool calling** — MCP servers, multi-step agents with structured
+  outputs, retries, and guardrails
+- **RAG** — chunking, hybrid retrieval, re-ranking, grounded citations,
+  eval-driven iteration
+- **Local & cloud inference** — Ollama and vLLM alongside OpenAI / Anthropic /
+  Gemini APIs; routing and caching to cut cost and latency
+- **Production** — Python, FastAPI, Docker; tracing, evals, and cost/latency
+  monitoring built into every project
+
+<br>
 
 `Python` · `TypeScript` · `MCP` · `Ollama` · `RAG` · `Fine-tuning` · `Tool Calling` · `Structured Outputs` · `LLM Evaluation`
 
