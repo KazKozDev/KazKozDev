@@ -5,8 +5,6 @@
 
 **Applied AI Developer working on open-source LLM applications.**
 
-I ship LLM applications end to end — retrieval, agent design, deployment.
-
 - **Agents & tool calling** — MCP servers, multi-step agents with structured
   outputs, retries, and guardrails
 - **RAG** — chunking, hybrid retrieval, re-ranking, grounded citations,
