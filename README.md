@@ -1,4 +1,4 @@
-<img width="2172" height="724" alt="banner" src="https://github.com/user-attachments/assets/420a6472-5124-4e19-8046-5e2e7b232b16" />
+<img width="900" height="" alt="banner_slowest" src="https://github.com/user-attachments/assets/386e2cd3-f226-4d91-94fe-5628218d7f10" />
 
 <br><br>
 # Hi, I’m Artem
