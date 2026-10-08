@@ -9,7 +9,7 @@
   outputs
 - **RAG** — chunking, hybrid retrieval, re-ranking, grounded citations
 - **Local & cloud inference** 
-- **Production** — tracing, evals, and cost/latency, monitoring built into every project
+- **Production** — tracing, evals, and cost/latency, monitoring built
 
 <br>
 
