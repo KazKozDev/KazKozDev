@@ -6,12 +6,10 @@
 **Applied AI Developer working on open-source LLM applications.**
 
 - **Agents & tool calling** — MCP servers, multi-step agents with structured
-  outputs, retries, and guardrails
-- **RAG** — chunking, hybrid retrieval, re-ranking, grounded citations,
-  eval-driven iteration
-- **Local & cloud inference** — Ollama and vLLM alongside OpenAI / Anthropic
-- **Production** — Python, FastAPI, Docker; tracing, evals, and cost/latency
-  monitoring built into every project
+  outputs
+- **RAG** — chunking, hybrid retrieval, re-ranking, grounded citations
+- **Local & cloud inference** 
+- **Production** — tracing, evals, and cost/latency, monitoring built into every project
 
 <br>
 
