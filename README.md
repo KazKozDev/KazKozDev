@@ -12,6 +12,6 @@
 
 <br>
 
-`Python` · `TypeScript` · `MCP` · `Ollama` · `RAG` · `Fine-tuning` · `Tool Calling` · `Structured Outputs` · `LLM Evaluation`
+`Python` · `TypeScript` · `MCP` · `RAG` · `Tool Calling` · `LLM Evaluation`
 
 
