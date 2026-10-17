@@ -5,13 +5,6 @@
 
 **Applied AI Developer working on open-source LLM applications.**
 
-- **Agents & tool calling** — MCP servers, multi-step agents 
-- **RAG** — chunking, hybrid retrieval, re-ranking, grounded citations
-- **Local & cloud inference** 
-- **Production** — tracing, evals, and cost/latency, monitoring built
-
-<br>
-
 `Python` · `TypeScript` · `MCP` · `RAG` · `Tool Calling` · `LLM Evaluation`
 
 
